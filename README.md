@@ -4,3 +4,11 @@ This reposotory will have all the required files and docs for a small toy projec
 
 You can lunch Binder by directly clicking in the following badge. You can create a Binder link with the badge directly from [mybinder.org](mybinder.org)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s23/facusapienza21-eratosthenes/HEAD?labpath=Eratosthenes.ipynb)
+
+```{figure} https://github.com/rowanc1/pics/blob/main/sunset.png?raw=true
+:label: myFigure
+:alt: Sunset at the beach
+:align: center
+
+Relaxing at the beach 🏝 🌊 😎
+```
